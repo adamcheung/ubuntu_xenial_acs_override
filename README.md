@@ -5,4 +5,4 @@ Added Plextor M6E quirks.
 
 Use 'patch -p1 < override_for_missing_acs_capabilities-kernel.patch' to commit.
 
-I'm not responsible for any damage to your computer/data/your cat, use with caution.
+I'm not responsible for any damage caused, use with caution.
